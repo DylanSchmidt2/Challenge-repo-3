@@ -9,8 +9,8 @@ After setting desired criterias, password is then displayed in the window or a p
 - [x] Numbers
 - [x] Special characters
 ###### User experience
-When application is loaded, user will see a red generate button to initiate process.
-User is then promted to choose a password length between 8 and 128 characters.
-User is prompted with criterias they can then choose from to personalize thier new password.
-After all user imput is completed, the newly generated password is then displayed.
-Copy to clipboard function is also available for use.
+- When application is loaded, user will see a red generate button to initiate process.
+- User is then promted to choose a password length between 8 and 128 characters.
+- User is prompted with criterias they can then choose from to personalize thier new password.
+- After all user imput is completed, the newly generated password is then displayed.
+- Copy to clipboard function is also available for use.
