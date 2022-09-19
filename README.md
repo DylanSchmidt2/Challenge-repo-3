@@ -1,3 +1,3 @@
 # Challenge-repo-3
 
-![alt text](http://url/to/img.png)
+![alt text](Random Password App ss.PNG)
