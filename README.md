@@ -14,3 +14,7 @@ After setting desired criterias, password is then displayed in the window or a p
 - User is prompted with different criterias available to personalize thier new password.
 - After all user imput is completed, newly generated password is then displayed.
 - Copy to clipboard function is also available for use.
+###### Link to application:
+https://dylanschmidt2.github.io/Challenge-repo-3/
+###### Deployed application:
+![Alt text] (Challenge-repo-3/Random Password App ss.PNG? raw=true "Deployed Application")
