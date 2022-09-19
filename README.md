@@ -2,7 +2,7 @@
 
 ## Description
 As a user, I want to press a button, and be prompted with a set of criterias for generating a new password.
-After setting desired criterias, password is then displayed in the window or a promt.
+After setting desired criterias, password is then displayed in the window or a prompt.
 ###### Password criterias must include:
 - [x] Uppercase letters
 - [x] Lowercase letters
@@ -10,7 +10,7 @@ After setting desired criterias, password is then displayed in the window or a p
 - [x] Special characters
 ###### User experience
 - When application is loaded, user will see a generate button to initiate process.
-- User is then promted to choose a password length between 8 and 128 characters.
+- User is then prompted to choose a password length between 8 and 128 characters.
 - User is prompted with different criterias available to personalize thier new password.
 - After all user imput is completed, newly generated password is then displayed.
 - Copy to clipboard function is also available for use.
