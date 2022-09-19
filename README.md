@@ -17,4 +17,5 @@ After setting desired criterias, password is then displayed in the window or a p
 ###### Link to application:
 https://dylanschmidt2.github.io/Challenge-repo-3/
 ###### Deployed application:
-![Alt text] (Challenge-repo-3/Random Password App ss.PNG? raw=true "Deployed Application")
+
+![Alt text](https://user-images.githubusercontent.com/109780961/191103997-0b2dfec6-e820-4152-b661-4873fba49c0b.PNG)
