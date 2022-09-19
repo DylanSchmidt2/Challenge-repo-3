@@ -1,4 +1,4 @@
 # Challenge-repo-3
 
-[![alt text](Random Password App ss.PNG)](https://github.com/DylanSchmidt2/Challenge-repo-3/blob/main/Random%20Password%20App%20ss.PNG)
+![This is an image](C:\Users\dylan\OneDrive\Challenge-repo-3\Random Password App ss.PNG)
 
